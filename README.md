@@ -18,7 +18,7 @@ Instagram's user-friendly interface, coupled with its extensive range of filters
 
 The Instagram User Analytics project involves the analysis of user data from the Instagram platform. The main objective of this analysis is to derive valuable business insights that contribute to the platform's development. These insights are utilized by various teams across the company to make informed decisions.
 
-As a part of this project, I am collaborating with the product team of Instagram and using SQL to address the questions posed by the management team. SQL is the primary tool used for querying and processing the data to arrive at solutions for the given problem statements.
+As a part of this project, I am using SQL to address the questions posed by the management team. SQL is the primary tool used for querying and processing the data to arrive at solutions for the given problem statements.
 
 
 
