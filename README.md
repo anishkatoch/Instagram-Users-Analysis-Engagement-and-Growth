@@ -96,3 +96,19 @@ The project effectively employs theoretical knowledge of SQL parameters in pract
 
 Overall, this project serves as a tool for making informed decisions and approaching various problem-solving scenarios in the realm of Instagram user analytics, thereby contributing to the platform's growth and development.
 
+
+
+
+## Limitations
+
+
+
+1. **Data Availability:** The project's success relies on the availability and quality of data from Instagram. Limitations in data access or restrictions imposed by the platform can impact the depth of analysis.
+
+
+2. **Technical Skills:** The project solely mentions SQL as the technology stack. Depending solely on SQL may limit the depth of analysis and insights that can be generated, especially for more complex data analytics tasks.
+
+
+3. **User Engagement Metrics:** While you mentioned improvements in user engagement, specific metrics (e.g., percentage increase in engagement) would provide a more quantitative measure of success.
+
+
