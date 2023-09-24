@@ -6,9 +6,9 @@
 
 ## Introduction to Instagram:
 
-Instagram is a popular social media platform that revolutionized the way people share and connect through photos and videos. Launched in 2010, Instagram has rapidly grown into one of the most widely used and influential social networking services worldwide.The platform allows users to create accounts, upload photos, and share them with their followers. Additionally, Instagram introduced the feature of short videos, known as "Stories," which disappear after 24 hours. This feature has contributed to the platform's appeal, as it enables users to share more spontaneous and authentic moments with their audience.
+- Instagram is a popular social media platform that revolutionized the way people share and connect through photos and videos. Launched in 2010, Instagram has rapidly grown into one of the most widely used and influential social networking services worldwide.The platform allows users to create accounts, upload photos, and share them with their followers. Additionally, Instagram introduced the feature of short videos, known as "Stories," which disappear after 24 hours. This feature has contributed to the platform's appeal, as it enables users to share more spontaneous and authentic moments with their audience.
 
-Instagram's user-friendly interface, coupled with its extensive range of filters and editing tools, empowers users to express their creativity and showcase their lives through visually engaging content. The platform's focus on visual storytelling has made it an ideal space for photographers, artists, influencers, and brands to share their work, experiences, and products with a global audience.
+- Instagram's user-friendly interface, coupled with its extensive range of filters and editing tools, empowers users to express their creativity and showcase their lives through visually engaging content. The platform's focus on visual storytelling has made it an ideal space for photographers, artists, influencers, and brands to share their work, experiences, and products with a global audience.
 
 
 
