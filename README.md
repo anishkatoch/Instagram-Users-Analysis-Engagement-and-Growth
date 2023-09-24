@@ -32,7 +32,7 @@
 
 -  Once the data analysis is complete, I carefully review each task to be performed and craft SQL queries using appropriate MySQL commands to accomplish the given objectives. These queries are designed to extract the necessary information and provide insights into the user data from Instagram.
 
-Throughout the project, the aim is to utilize SQL effectively and ensure that the provided solutions meet the management team's requirements and help drive strategic decisions for Instagram's continuous growth and enhancement.
+
 
 
 ## INSIGHTS:
