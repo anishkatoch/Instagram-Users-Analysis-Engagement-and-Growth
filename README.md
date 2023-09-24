@@ -37,7 +37,7 @@ Throughout the project, the aim is to utilize SQL effectively and ensure that th
 
 ## INSIGHTS
 
-### LOYAL USER AWARD
+-  ### LOYAL USER AWARD
 
 ![REWARD](https://github.com/anishkatoch/Instagram-Users/assets/130006013/fa320e2c-0959-49ca-9676-3b1cf156a175)
 
