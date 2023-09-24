@@ -35,7 +35,7 @@
 Throughout the project, the aim is to utilize SQL effectively and ensure that the provided solutions meet the management team's requirements and help drive strategic decisions for Instagram's continuous growth and enhancement.
 
 
-## INSIGHTS
+## INSIGHTS:
 
 -  ### LOYAL USER AWARD
 
@@ -79,7 +79,7 @@ Throughout the project, the aim is to utilize SQL effectively and ensure that th
 -  This is achieved by dividing the total number of posts/photos by the count of active users (users with at least one post).
 
 
-## INSIGHTS
+## INSIGHTS:
 
 - This project has given me valuable insights into the role of business or data analysts in making data-driven decisions using real-time data.
 - One key takeaway from this project is that the dataset provided, while small in terms of rows and columns, has offered a valuable learning experience.
@@ -106,7 +106,7 @@ Throughout the project, the aim is to utilize SQL effectively and ensure that th
 
 
 
-## Limitations
+## Limitations:
 
 
 
@@ -119,3 +119,11 @@ Throughout the project, the aim is to utilize SQL effectively and ensure that th
 3. **User Engagement Metrics:** While you mentioned improvements in user engagement, specific metrics (e.g., percentage increase in engagement) would provide a more quantitative measure of success.
 
 
+
+
+## Challenges:
+
+
+-  Detecting and managing fake or bot accounts is an ongoing challenge. Developing accurate algorithms while minimizing false positives is difficult.
+-  Launching effective ad campaigns requires continuous optimization. Identifying the right audience, ad formats, and measuring success pose challenges.
+-  Staying current with trending hashtags and their user relevance is challenging. Conducting real-time hashtag research is crucial for engaging Instagram content.
