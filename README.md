@@ -42,38 +42,41 @@ Throughout the project, the aim is to utilize SQL effectively and ensure that th
 ![REWARD](https://github.com/anishkatoch/Instagram-Users/assets/130006013/fa320e2c-0959-49ca-9676-3b1cf156a175)
 
 
-### REMIND INACTIVE USERS TO START POSTING
+-  ### REMIND INACTIVE USERS TO START POSTING
 
 ![REMIND](https://github.com/anishkatoch/Instagram-Users/assets/130006013/27dff75d-6854-4db3-b5a1-d24105dc6fe7)
 
-### DECLARING CONTEST WINNER
+-  ### DECLARING CONTEST WINNER
 
 ![winner](https://github.com/anishkatoch/Instagram-Users/assets/130006013/776aab06-3655-4a9b-be60-21284e2d73a5)
 
-### HASHTAG RESEARCHING
+-  ### HASHTAG RESEARCHING
 
 ![hashtag](https://github.com/anishkatoch/Instagram-Users/assets/130006013/dbbf7b93-4e34-4ddf-af87-497f95e4341a)
 
-### LAUNCH Ad CAMPAIGN
+-  ### LAUNCH Ad CAMPAIGN
 
 ![add](https://github.com/anishkatoch/Instagram-Users/assets/130006013/e188421d-4dd3-4bbc-a413-508320f994ac)
 
 
-### USER ENGAGEMENT
+-  ### USER ENGAGEMENT
 
 ![user](https://github.com/anishkatoch/Instagram-Users/assets/130006013/78b6eb8e-760e-4c32-8de8-fc9b96cda755)
 
 
-### BOT AND FAKE ACCOUNTS
+-  ### BOT AND FAKE ACCOUNTS
 
 ![bot](https://github.com/anishkatoch/Instagram-Users/assets/130006013/0c15a998-ff57-4d89-980e-0ae6147828bd)
 
 
 ## Analysis:
 
-Since this project involves SQL software and querying, the primary analysis is not represented in a graphical manner. Instead, it relies on knowledge and analytical skills to formulate correct queries for obtaining accurate answers. For example, to find the five oldest users, the "created-at" column is considered, as it contains the registration date of users. Similarly, identifying fake/bot accounts involves analyzing cases where a single account excessively likes all pictures on the website.
-
-Another scenario involves determining website redundancy by calculating the average activeness of users. This is achieved by dividing the total number of posts/photos by the count of active users (users with at least one post).
+-  Since this project involves SQL software and querying, the primary analysis is not represented in a graphical manner. 
+-  Instead, it relies on knowledge and analytical skills to formulate correct queries for obtaining accurate answers. 
+-  For example, to find the five oldest users, the "created-at" column is considered, as it contains the registration date of users. 
+-  Similarly, identifying fake/bot accounts involves analyzing cases where a single account excessively likes all pictures on the website.
+-  Another scenario involves determining website redundancy by calculating the average activeness of users. 
+-  This is achieved by dividing the total number of posts/photos by the count of active users (users with at least one post).
 
 
 ## INSIGHTS
@@ -92,11 +95,13 @@ Another scenario involves determining website redundancy by calculating the aver
 
 ## Conclusion:
 
-In conclusion, this project provides valuable insights into user analysis and user behavior patterns on Instagram. It offers a deeper understanding of user dynamics and preferences, making it crucial for the organization to know their customers better. By gaining such insights, the platform can offer personalized and individualized offers and discounts to its users, enhancing user engagement.
-
-The project effectively employs theoretical knowledge of SQL parameters in practical applications. It fosters logical thinking and the ability to draw meaningful conclusions from the results. Handling SQL queries also enhances one's understanding of potential mistakes that may arise during query execution.
-
-Overall, this project serves as a tool for making informed decisions and approaching various problem-solving scenarios in the realm of Instagram user analytics, thereby contributing to the platform's growth and development.
+-  In conclusion, this project provides valuable insights into user analysis and user behavior patterns on Instagram. 
+-  It offers a deeper understanding of user dynamics and preferences, making it crucial for the organization to know their customers better.
+-  By gaining such insights, the platform can offer personalized and individualized offers and discounts to its users, enhancing user engagement.
+-  The project effectively employs theoretical knowledge of SQL parameters in practical applications. 
+-  It fosters logical thinking and the ability to draw meaningful conclusions from the results.
+-  Handling SQL queries also enhances one's understanding of potential mistakes that may arise during query execution.
+-  Overall, this project serves as a tool for making informed decisions and approaching various problem-solving scenarios in the realm of Instagram user analytics, thereby contributing to the platform's growth and development.
 
 
 
