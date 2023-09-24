@@ -18,9 +18,9 @@
 ## Description:
 
 
-The Instagram User Analytics project involves the analysis of user data from the Instagram platform. The main objective of this analysis is to derive valuable business insights that contribute to the platform's development. These insights are utilized by various teams across the company to make informed decisions.
+-  The Instagram User Analytics project involves the analysis of user data from the Instagram platform. The main objective of this analysis is to derive valuable business insights that contribute to the platform's development. These insights are utilized by various teams across the company to make informed decisions.
 
-As a part of this project, I am using SQL to address the questions posed by the management team. SQL is the primary tool used for querying and processing the data to arrive at solutions for the given problem statements.
+-  As a part of this project, I am using SQL to address the questions posed by the management team. SQL is the primary tool used for querying and processing the data to arrive at solutions for the given problem statements.
 
 
 
@@ -28,9 +28,9 @@ As a part of this project, I am using SQL to address the questions posed by the 
 
 
 
-The project begins by setting up a database on MySQL. I create tables and insert all the relevant data into these tables. A meticulous analysis of each table is then conducted to understand the stored values and the purpose of each table. Additionally, I identify the presence of foreign keys and primary keys in the tables, establishing relationships between parent and child tables. This enables efficient data retrieval through joins, reducing memory usage and improving query compilation speed.
+-  The project begins by setting up a database on MySQL. I create tables and insert all the relevant data into these tables. A meticulous analysis of each table is then conducted to understand the stored values and the purpose of each table. Additionally, I identify the presence of foreign keys and primary keys in the tables, establishing relationships between parent and child tables. This enables efficient data retrieval through joins, reducing memory usage and improving query compilation speed.
 
-Once the data analysis is complete, I carefully review each task to be performed and craft SQL queries using appropriate MySQL commands to accomplish the given objectives. These queries are designed to extract the necessary information and provide insights into the user data from Instagram.
+-  Once the data analysis is complete, I carefully review each task to be performed and craft SQL queries using appropriate MySQL commands to accomplish the given objectives. These queries are designed to extract the necessary information and provide insights into the user data from Instagram.
 
 Throughout the project, the aim is to utilize SQL effectively and ensure that the provided solutions meet the management team's requirements and help drive strategic decisions for Instagram's continuous growth and enhancement.
 
