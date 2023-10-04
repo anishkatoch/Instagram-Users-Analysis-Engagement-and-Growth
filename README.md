@@ -14,9 +14,19 @@
 
 
 
+
+
+
+
+
 ## Problem Statement:
 
+
+
 Instagram, as one of the leading social media platforms, faces the challenge of continuously improving user engagement and the overall user experience. To address this challenge, there is a need to comprehensively analyze user interactions within the Instagram app. This analysis will not only help in understanding how users engage with the platform but also provide crucial insights that can shape the platform's future direction and business growth.
+
+
+
 
 
 
@@ -24,7 +34,11 @@ Instagram, as one of the leading social media platforms, faces the challenge of 
 ## Aim:
 
 
+
+
 The problem that this project aims to solve is to harness the power of data analysis, specifically through SQL and MySQL Workbench, to gain deep insights into user interactions and engagement with the Instagram app. As a data analyst collaborating with Instagram's product team, the core objective is to unearth valuable insights that can fuel the growth of the business. This entails understanding how users engage with the digital product, which in this case is the Instagram app, and translating these insights into actionable recommendations.
+
+
 
 
 
